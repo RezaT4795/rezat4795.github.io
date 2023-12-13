@@ -1,8 +1,5 @@
-# Programming Tips
+# WordUp Docs
 
-Tips for programming best-practices at Geeks Ltd.
+This is a walkthrough for WordUp app, and how every page and button work and what are their expected behaviour.
 > [Read this in a better format](https://geeksltd.github.io/Programming.Tips/#/)
 
-## Background
-
-This guide will teach you how to write more expressive and intention revealing code that’s a pleasure to read and to build upon.
