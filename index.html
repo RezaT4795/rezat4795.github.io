@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Programming tips</title>
+  <title>WordUp Documentations</title>
   <link rel="icon" href="docs/_media/favicon.ico">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="keywords" content="doc,programming,dotnet,goodpractices,mvc,tips,geeks,geeksltd">
@@ -21,7 +21,7 @@
       mergeNavbar: true,
       maxLevel: 4,
       subMaxLevel: 2,
-      name: 'Programming Tips',
+      name: 'WordUp Documentations',
       search: {
         noData: {
           '/': 'No results!'
@@ -35,7 +35,7 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
-            var url = 'https://github.com/RezaT4795/WordUp.Docs/blob/master/' + vm.route.file
+            var url = 'https://github.com/RezaT4795/rezat4795.github.io/blob/master/' + vm.route.file
             var editHtml = '[:memo: Edit Document](' + url + ')\n'
             return editHtml
              + html
