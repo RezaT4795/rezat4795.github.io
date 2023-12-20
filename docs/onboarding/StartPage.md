@@ -8,7 +8,7 @@ Upon launch
 
 ### Dependencies
 
-[Splash and Loading Screen](SplashAndLoading.md)
+[Splash and Loading Screen](https://rezat4795.github.io/#/docs/onboarding/SplashAndLoading.md)
 
 ### Pre-conditions
 
