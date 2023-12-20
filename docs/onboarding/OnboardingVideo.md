@@ -1,6 +1,6 @@
 # Onboarding Video
 
-
+![OnboardingVideo](../_media/Onboarding/OnboardingVideo.png)
 
 ### Frequency
 

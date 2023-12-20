@@ -1,6 +1,6 @@
 # Signup With Email
 
-
+![SignupWithEmail](../_media/Onboarding/SignupWithEmail.png)
 
 ### Frequency
 

@@ -1,6 +1,6 @@
 # Pick Topics
 
-
+![PickTopics](../_media/Onboarding/PickTopics.png)
 
 ### Frequency
 

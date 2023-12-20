@@ -1,6 +1,6 @@
 # Signup Page
 
-
+![SignupPage](../_media/Onboarding/SignupPage.png)
 
 ### Frequency
 
