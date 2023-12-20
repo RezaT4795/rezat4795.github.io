@@ -1,6 +1,6 @@
 # Start page
 
-
+![StartPage](../_media/Onboarding/StartPage.png)
 
 ### Frequency
 

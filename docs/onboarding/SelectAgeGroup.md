@@ -1,6 +1,6 @@
 # Select Age Group
 
-
+![SelectAgeGroup](../_media/Onboarding/SelectAgeGroup.png)
 
 ### Frequency
 

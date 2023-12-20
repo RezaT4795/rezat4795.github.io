@@ -1,6 +1,6 @@
 # Enter Email
 
-
+![EnterEmail](../_media/Onboarding/EnterEmail.png)
 
 ### Frequency
 

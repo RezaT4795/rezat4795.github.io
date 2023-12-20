@@ -1,6 +1,6 @@
 # Security PIN
 
-
+![SecurityPIN](../_media/Onboarding/SecurityPIN.png)
 
 ### Frequency
 

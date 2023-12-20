@@ -1,6 +1,6 @@
 # Login Page
 
-
+![LoginPage](../_media/Onboarding/LoginPage.png)
 
 ### Frequency
 

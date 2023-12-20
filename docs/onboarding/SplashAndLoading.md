@@ -1,6 +1,6 @@
 # Splash and Loading Screen
 
-![Splash](../_media/Onboarding/Splash.png)
+![SplashAndLoading](../_media/Onboarding/SplashAndLoading.png)
 
 ### Frequency
 

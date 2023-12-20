@@ -1,6 +1,6 @@
 # Choose Your Accent
 
-
+![ChooseYourAccent](../_media/Onboarding/ChooseYourAccent.png)
 
 ### Frequency
 

@@ -1,6 +1,6 @@
 # Language Level
 
-
+![LanguageLevel](../_media/Onboarding/LanguageLevel.png)
 
 ### Frequency
 
