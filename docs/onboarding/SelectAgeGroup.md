@@ -21,7 +21,9 @@ User should have chosen one of the language levels and pressed "Continue" on the
 2. It should have a title "Select your age".
 
 3. It should also have 3 big buttons in the middle of the page, each with a title that indicates the user age group.
-   a. Over 18, b. 13 - 17, c. 8 - 12
+   - Over 18
+   - 13 - 17
+   - 8 - 12
 Choosing any of the above will make it highlighted and selected, sets the selected age group for the user, and activates the "Continue" button at the bottom.
 Depending on the selection, it will activate or deactivate some pages/fields in the next steps.
 By choosing "b" or "c", the SignUp with Email page will have a field for entering the age.
