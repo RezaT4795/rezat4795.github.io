@@ -30,6 +30,10 @@ User should have chosen one of the age groups and pressed "Continue" on the prev
    - If the choosen language supports UI translations, it will navigate the user to the "Select UI Language" page.
    - If the choosen language does not support UI translations, it will navigate the user to the "Learning Goal" page.
    
+   #### Supported Languages for UI Translation
+
+   Arabic, Chinese, German(Deutsch), Hindi, Japanese, Persian(Farsi), Portuguese, Russian, Spanish, Turkish
+
    #### NOTE
    If the user have chosen "8-12" age group on previous page, they won't be navigated to "Learning goal" page and will directly go to "Pick Topics" page.
 
