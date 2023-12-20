@@ -1,6 +1,6 @@
 # Splash and Loading Screen
 
-![Splash](docs/_media/Onboarding/Splash.png)
+![Splash](../_media/Onboarding/Splash.png)
 
 1. First, a big violet background with WordUp logo should appear.
 
