@@ -35,6 +35,6 @@ User should have chosen one of the age groups and pressed "Continue" on the prev
    Arabic, Chinese, German(Deutsch), Hindi, Japanese, Persian(Farsi), Portuguese, Russian, Spanish, Turkish
 
    #### NOTE
-   If the user have chosen "8-12" age group on previous page, they won't be navigated to "Learning goal" page and will directly go to "Pick Topics" page.
+   If the user have chosen "8-12" age group on the "Select Age Group" page, they won't be navigated to "Learning goal" page and will directly go to "Pick Topics" page.
 
 

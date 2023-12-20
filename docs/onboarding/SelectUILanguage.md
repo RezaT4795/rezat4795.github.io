@@ -8,7 +8,7 @@ Once, in the middle of the process of Onboarding, user can also navigate back fr
 
 ### Dependencies
 
-[Select Language](docs/Onboarding/SelectLanguage.md)
+[Select Language](docs/onboarding/SelectLanguage.md)
 
 ### Pre-conditions
 
@@ -29,4 +29,4 @@ User must have chosen one of the UI Translation supported languages and pressed 
 5. There should have be a "Continue" button at the bottom of the page. Pressing it will navigate the user to the "Learning Goal" page.
 
    #### NOTE
-   If the user have chosen "8-12" age group on previous page, they won't be navigated to "Learning goal" page and will directly go to "Pick Topics" page.
+   If the user have chosen "8-12" age group on the "Select Age Group" page, they won't be navigated to "Learning goal" page and will directly go to "Pick Topics" page.
