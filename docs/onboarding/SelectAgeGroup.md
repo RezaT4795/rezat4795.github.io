@@ -24,6 +24,7 @@ User should have chosen one of the language levels and pressed "Continue" on the
    - Over 18
    - 13 - 17
    - 8 - 12
+
 Choosing any of the above will make it highlighted and selected, sets the selected age group for the user, and activates the "Continue" button at the bottom.
 Depending on the selection, it will activate or deactivate some pages/fields in the next steps.
 By choosing "13 - 17" or "8 - 12", the SignUp with Email page will have a field for entering the age.
