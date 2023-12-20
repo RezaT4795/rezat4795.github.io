@@ -1,5 +1,21 @@
 # Enter Email
 
+
+
+### Frequency
+
+Once, after Login Page, User can also navigate back from here.
+
+### Dependencies
+
+[Login Page](LoginPage.md)
+
+### Pre-conditions
+
+User should press "Sign in with Email" on previous page
+
+### Expected Behaviour
+
 1. The page should have the WordUp logo(Login with Email) on top.
 
 2. It should have an input field to enter the email. It also has a greyed-out text inside: "Your email address".

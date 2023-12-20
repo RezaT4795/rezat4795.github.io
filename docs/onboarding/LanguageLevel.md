@@ -1,5 +1,23 @@
 # Language Level
 
+
+
+### Frequency
+
+Once, in the middle of the process of Onboarding, user can also navigate back from here.
+
+Also accessible from the preferences
+
+### Dependencies
+
+[Choose Your Accent](ChooseYourAccent.md)
+
+### Pre-conditions
+
+User should press either "American" or "British" on the previous page.
+
+### Expected Behaviour
+
 1. The progress bar on top should fill a bit more.
 
 2. It should have a title "Select your level" with a small subtitle "What is your current level of English?".

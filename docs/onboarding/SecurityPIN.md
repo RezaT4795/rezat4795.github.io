@@ -1,5 +1,25 @@
 # Security PIN
 
+
+
+### Frequency
+
+Once, after Enter Email or SignUp with Email page. User can also navigate back from here.
+
+### Dependencies
+
+[Enter Email](EnterEmail.md) / SignUp with Email 
+
+### Pre-conditions
+
+Coming from [Enter Email](EnterEmail.md):
+User should have entered a valid and registered email address, and pressed "Next" button on the previous page.
+
+Coming from SignUp with Email:
+User should have filled the signup form correctly.(WIP)
+
+### Expected Behaviour
+
 It should have a box containing:
 1. A title saying "Your security PIN was sent to:"
 

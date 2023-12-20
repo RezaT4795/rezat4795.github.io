@@ -1,5 +1,21 @@
 # Login Page
 
+
+
+### Frequency
+
+Once, at the beginning of the Onboarding, User can also navigate back from here.
+
+### Dependencies
+
+[Start Page](StartPage.md)
+
+### Pre-conditions
+
+User should press "Login" on previous page
+
+### Expected Behaviour
+
 1. The page should have a  Lottie animation (Lexi holding a big mobile phone).
 
 2. It can have up to 3 buttons (Depending on the Platform): 

@@ -1,5 +1,21 @@
 # Select Age Group
 
+
+
+### Frequency
+
+Once, in the middle of the process of Onboarding, user can also navigate back from here.
+
+### Dependencies
+
+[Language Level](LanguageLevel.md)
+
+### Pre-conditions
+
+User should have chosen one of the language levels and pressed "Continue" on the previous page
+
+### Expected Behaviour
+
 1. The progress bar on top should fill a bit more.
 
 2. It should have a title "Select your age".
