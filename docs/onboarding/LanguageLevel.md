@@ -10,7 +10,7 @@ Also accessible from the preferences.
 
 ### Dependencies
 
-[Choose Your Accent](ChooseYourAccent.md)
+[Choose Your Accent](docs/onboarding/ChooseYourAccent.md)
 
 ### Pre-conditions
 

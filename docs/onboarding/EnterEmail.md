@@ -8,7 +8,7 @@ Once, after Login Page, User can also navigate back from here.
 
 ### Dependencies
 
-[Login Page](LoginPage.md)
+[Login Page](docs/onboarding/LoginPage.md)
 
 ### Pre-conditions
 

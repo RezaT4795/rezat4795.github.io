@@ -8,11 +8,11 @@ Once, after Enter Email or SignUp with Email page. User can also navigate back f
 
 ### Dependencies
 
-[Enter Email](EnterEmail.md) / SignUp with Email 
+[Enter Email](docs/onboarding/EnterEmail.md) / SignUp with Email 
 
 ### Pre-conditions
 
-Coming from [Enter Email](EnterEmail.md):
+Coming from [Enter Email](docs/onboarding/EnterEmail.md):
 User should have entered a valid and registered email address, and pressed "Next" button on the previous page.
 
 Coming from SignUp with Email:

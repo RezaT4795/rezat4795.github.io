@@ -8,7 +8,7 @@ Once, in the middle of the process of Onboarding, user can also navigate back fr
 
 ### Dependencies
 
-[Language Level](LanguageLevel.md)
+[Language Level](docs/onboarding/LanguageLevel.md)
 
 ### Pre-conditions
 

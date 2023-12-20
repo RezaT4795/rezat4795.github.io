@@ -8,7 +8,7 @@ Once, at the beginning of the Onboarding, User can also navigate back from here.
 
 ### Dependencies
 
-[Start Page](StartPage.md)
+[Start Page](docs/onboarding/StartPage.md)
 
 ### Pre-conditions
 
