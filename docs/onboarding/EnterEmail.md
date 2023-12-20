@@ -12,7 +12,7 @@ Once, after Login Page, User can also navigate back from here.
 
 ### Pre-conditions
 
-User should press "Sign in with Email" on previous page
+User should press "Sign in with Email" on previous page.
 
 ### Expected Behaviour
 

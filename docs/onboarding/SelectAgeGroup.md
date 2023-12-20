@@ -12,7 +12,7 @@ Once, in the middle of the process of Onboarding, user can also navigate back fr
 
 ### Pre-conditions
 
-User should have chosen one of the language levels and pressed "Continue" on the previous page
+User should have chosen one of the language levels and pressed "Continue" on the previous page.
 
 ### Expected Behaviour
 

@@ -12,7 +12,7 @@ Upon launch
 
 ### Pre-conditions
 
-User is not logged-in/registered
+User is not logged-in/registered.
 
 ### Expected Behaviour
 

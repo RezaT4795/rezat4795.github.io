@@ -6,7 +6,7 @@
 
 Once, in the middle of the process of Onboarding, user can also navigate back from here.
 
-Also accessible from the preferences
+Also accessible from the preferences.
 
 ### Dependencies
 

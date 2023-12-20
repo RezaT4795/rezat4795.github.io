@@ -12,7 +12,7 @@ Once, at the beginning of the Onboarding, User can also navigate back from here.
 
 ### Pre-conditions
 
-User should press "Login" on previous page
+User should press "Login" on previous page.
 
 ### Expected Behaviour
 
