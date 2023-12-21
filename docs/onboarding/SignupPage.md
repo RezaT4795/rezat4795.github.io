@@ -16,7 +16,7 @@ User must have pressed "Continue" on the "Favourite Characters" page.
 
 ### Expected Behaviour
 
-1. The page should have a  Lottie animation, showing Lexi holding a big pencil.
+1. The page should have a Lottie animation, showing Lexi holding a big pencil.
 
 2. It can have up to 3 buttons (Depending on the Platform): 
 Continue with Apple (Only on iOS), Continue with Google (Only on Android and iOS), Continue with Email
