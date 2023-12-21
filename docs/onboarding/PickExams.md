@@ -26,7 +26,7 @@ User must have checked "Prepare for IELTS, TOEFL or GRE" on the "Learning Goal" 
 
 4. Under the search bar, there should be a list of English exams. Selecting any of them will make it highlighted and a star icon will be sticked to the selected item. User can select any, all, or none of the exams.
 
-5. There should have be a "Continue" button at the bottom of the page. Based on the user's choices on the "Learning Goal" page, pressing the "Continue" button will navigate the user to the next page.
+5. There should have be a "Continue" button at the bottom of the page. Based on the user's choices on the "Learning Goal" page, pressing the "Continue" button will navigate the user to the next page. This button is only available in the Onboarding process.
    #### NOTE
    If the user does not select any of the exams, pressing the "Continue" button will shows the following popup:
    

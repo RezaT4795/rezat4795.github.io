@@ -26,7 +26,7 @@ User must have checked "Learn Business, Professional words" on the "Learning Goa
 
 4. Under the search bar, there should be a list of professions. Selecting any of them will make it highlighted and a star icon will be sticked to the selected item. User can select up to 3, or none of the professions. If the user tries to select more than 3 professions, an alert will show up, saying "You can only choose up to 3 professions."
 
-5. There should have be a "Continue" button at the bottom of the page. Pressing it button will navigate the user to the "Pick Topics" page.
+5. There should have be a "Continue" button at the bottom of the page. Pressing it button will navigate the user to the "Pick Topics" page. This button is only available in the Onboarding process.
    #### NOTE
    If the user does not select any of the professions, pressing the "Continue" button will shows the following popup:
    

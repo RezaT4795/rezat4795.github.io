@@ -29,6 +29,6 @@ User must have pressed "Continue" on the "Onboarding Video" page (Or the "Wordli
 
 5. Under the search bar, there should be a list of Characters. Selecting any of them will make it highlighted and a star icon will be sticked to the selected item. User can select any, all, or none of the characters.
 
-6. There should have be a "Continue" button at the bottom of the page. Pressing it button will navigate the user to the "Signup" Page.
+6. There should have be a "Continue" button at the bottom of the page. Pressing it button will navigate the user to the "Signup" Page. This button is only available in the Onboarding process.
 
 7. Under the continue button, there should be a subtitle saying "You can edit or add more later".
