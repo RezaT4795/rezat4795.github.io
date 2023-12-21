@@ -8,7 +8,7 @@ Once, after Enter Email or SignUp with Email page. User can also navigate back f
 
 ### Dependencies
 
-[Enter Email](docs/onboarding/EnterEmail.md) / SignUp with Email 
+[Enter Email](docs/onboarding/EnterEmail.md) / [SignUp with Email](docs/onboarding/SignupWithEmail.md)
 
 ### Pre-conditions
 
