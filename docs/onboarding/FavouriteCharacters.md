@@ -10,7 +10,7 @@ Also accessible from the "Practice" page.
 
 ### Dependencies
 
-[Wordlist Estimate](docs/onboarding/WordlistEstimate.md)/[OnboardingVideo](docs/onboarding/WordlistEstimate.md)/[Practice](docs/practice/Practice.md)
+[Wordlist Estimate](docs/onboarding/WordlistEstimate.md)/[Onboarding Video](docs/onboarding/OnboardingVideo.md)/[Practice](docs/practice/Practice.md)
 
 ### Pre-conditions
 
