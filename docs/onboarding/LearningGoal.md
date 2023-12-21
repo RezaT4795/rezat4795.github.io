@@ -28,7 +28,7 @@ Once, in the middle of the process of Onboarding, user can also navigate back fr
      - If the previous choice is also checked, it will navigate the user to "Pick Exams" page, then to the "Pick Professions" page, and then to the "Pick Topics" page.
      - If the previous choice is NOT checked, it will navigate the user to the "Pick Professions" page, and then to the "Pick Topics" page.
 
-4. There should have be a "Continue" button at the bottom of the page. Based on the user's choices on this page, pressing the "Continue" button will navigate the user to the next page.
+4. There should have be a "Continue" button at the bottom of the page. Based on the user's choices on this page, pressing the "Continue" button will navigate the user to the next page. Also, if the user unchecks all of the choices, the button will be grayed-out and disabled.
 
    #### NOTE
    If the user have chosen "8-12" age group on the "Select Age Group" page, they won't be navigated to "Learning goal" page and will directly go to "Pick Topics" page.
