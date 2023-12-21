@@ -8,11 +8,11 @@ Once, in the middle of the process of Onboarding, user can also navigate back fr
 
 ### Dependencies
 
-[Wordlist Estimate](docs/onboarding/WordlistEstimate.md)/
+[Wordlist Estimate](docs/onboarding/WordlistEstimate.md)
 
 ### Pre-conditions
 
-1. The onboarding video should have been downloaded during the process of onboarding.
+1. The onboarding video must have been downloaded during the process of onboarding.
 
 2. User must have pressed "Continue" on the "Wordlist Estimate" page.
 
