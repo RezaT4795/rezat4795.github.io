@@ -30,6 +30,7 @@ User must have pressed "Continue" on the "Pick Topics" page.
    - The first row is "1500 Essential Words" the number on the left of this row is always 1500.
    - Other rows are the user's chosen Exams and Professions, and their number shows the count of words that does not exist on the previous rows. 
    - If the user has selected any of the topics on the "Pick Topics" page, Under the rows list, there will be a subtitle saying "N+Topics" which N is the count of the chosen topics.
+   - If the user taps on any of the exclamation mark icons on the right, a popup will show up that contains some details about that row and its calculated words. 
 
 6. There should have be a "Continue" button at the bottom of the page. Pressing it will navigate the user to the "Onboarding Video" page.
 
