@@ -29,6 +29,7 @@ User must have checked "Learn Business, Professional words" on the "Learning Goa
 5. There should have be a "Continue" button at the bottom of the page. Pressing it button will navigate the user to the "Pick Topics" page.
    #### NOTE
    If the user does not select any of the professions, pressing the "Continue" button will shows the following popup:
+   
    ![PickProfessionsWarning](../_media/Onboarding/PickProfessionsWarning.png)
 
 6. Under the continue button, there should be a subtitle saying "You can edit or add more later".

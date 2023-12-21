@@ -29,6 +29,7 @@ User must have checked "Prepare for IELTS, TOEFL or GRE" on the "Learning Goal" 
 5. There should have be a "Continue" button at the bottom of the page. Based on the user's choices on the "Learning Goal" page, pressing the "Continue" button will navigate the user to the next page.
    #### NOTE
    If the user does not select any of the exams, pressing the "Continue" button will shows the following popup:
+   
    ![PickExamsWarning](../_media/Onboarding/PickExamsWarning.png)
 
 6. Under the continue button, there should be a subtitle saying "You can edit or add more later".
