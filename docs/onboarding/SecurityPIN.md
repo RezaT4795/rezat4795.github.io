@@ -15,7 +15,7 @@ Once, after Enter Email or SignUp with Email page. User can also navigate back f
 Coming from [Enter Email](docs/onboarding/EnterEmail.md):
 User should have entered a valid and registered email address, and pressed "Next" button on the previous page.
 
-Coming from SignUp with Email:
+Coming from [SignUp with Email](docs/onboarding/SignupWithEmail.md):
 User should have filled the signup form correctly.(WIP)
 
 ### Expected Behaviour
