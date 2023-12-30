@@ -23,3 +23,5 @@
     * [Security PIN](docs/onboarding/SecurityPIN.md)
     * [Login Wait](docs/onboarding/LoginWait.md)
 *  Membership
+    * [Subscription Comparison](docs/onboarding/LoginWait.md)
+    * [Paywall](docs/onboarding/LoginWait.md)
