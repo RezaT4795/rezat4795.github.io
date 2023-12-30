@@ -4,6 +4,7 @@
     * [Login Page](docs/onboarding/LoginPage.md)
     * [Enter Email](docs/onboarding/EnterEmail.md)
     * [Security PIN](docs/onboarding/SecurityPIN.md)
+    * [Login Wait](docs/onboarding/LoginWait.md)
 *  Onboarding (SignUp Process)
     * [Choose Your Accent](docs/onboarding/ChooseYourAccent.md)    
     * [Language Level](docs/onboarding/LanguageLevel.md)    
@@ -19,4 +20,6 @@
     * [Favourite Characters](docs/onboarding/FavouriteCharacters.md)    
     * [Signup Page](docs/onboarding/SignupPage.md)    
     * [Signup With Email](docs/onboarding/SignupWithEmail.md)
-
+    * [Security PIN](docs/onboarding/SecurityPIN.md)
+    * [Login Wait](docs/onboarding/LoginWait.md)
+*  Membership
