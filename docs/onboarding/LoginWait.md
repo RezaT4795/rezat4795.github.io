@@ -1,6 +1,6 @@
 # Login Wait Page
 
-![LoginWait](../_media/Onboarding/LoginPage.png)
+![LoginWait](../_media/Onboarding/LoginWait.png)
 
 ### Frequency
 
